@@ -5,7 +5,7 @@
         </div>
         <div class="product-info" v-else>
             <img
-                :src="`/src/assets/product_${ProductStore.getCurrentProduct?.id}.png`"
+                :src="`/product_${ProductStore.getCurrentProduct?.id}.png`"
                 :alt="'product_' + ProductStore.getCurrentProduct?.id"
             />
             <div>

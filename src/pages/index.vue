@@ -50,7 +50,7 @@
                     :key="product.id"
                     @click="fOpenProduct(product)"
                 >
-                    <img :src="`/src/assets/product_${product.id}.png`" :alt="'product_' + product.id" />
+                    <img :src="`/product_${product.id}.png`" :alt="'product_' + product.id" />
                     <p>{{ product.name }}</p>
                 </div>
             </div>

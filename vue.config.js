@@ -1,3 +1,3 @@
-module.exports ={
-    publicPath: '/HtmlTestTaskAG/'
-}
+module.exports = {
+    publicPath: "/HtmlTestTaskAG/",
+};
