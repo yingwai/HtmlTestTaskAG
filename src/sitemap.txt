@@ -1,0 +1,6 @@
+https://yingwai.github.io/HtmlTstTaskAG/
+https://yingwai.github.io/HtmlTstTaskAG/services
+https://yingwai.github.io/HtmlTstTaskAG/services/:id
+https://yingwai.github.io/HtmlTstTaskAG/contacts
+https://yingwai.github.io/HtmlTstTaskAG/term
+https://yingwai.github.io/HtmlTstTaskAG/cookie
