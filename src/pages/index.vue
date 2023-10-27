@@ -39,7 +39,7 @@
                     utmost professionalism.
                 </p>
             </div>
-            <img src="../assets/img/img_1.png" alt="img_1.png" />
+            <img src="../assets/img_1.png" alt="img_1.png" />
         </div>
 
         <div class="service-block">
@@ -184,7 +184,7 @@ export default {
 
 <style lang="scss" scoped>
 .welcome-block {
-    background: url("../assets/img/background.png") no-repeat;
+    background: url("../assets/background.png") no-repeat;
     height: 665px;
 
     display: flex;
