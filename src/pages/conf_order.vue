@@ -36,7 +36,7 @@ export default {
 
     methods: {
         fOpenProduct(oProduct) {
-            this.$router.push("/services/" + oProduct.id);
+            this.$router.push("/HtmlTestTaskAG/services/" + oProduct.id);
         },
     }
 };

@@ -129,7 +129,7 @@
 
         <p>
             More information can be found in the
-            <router-link to="/disclaimer">disclaimer</router-link>
+            <router-link to="/HtmlTestTaskAG/disclaimer">disclaimer</router-link>
         </p>
 
         <h3>Changes and amendments</h3>

@@ -11,14 +11,14 @@ import Cookie from "@/pages/cookie.vue";
 const router = createRouter({
     history: createWebHistory(),
     routes: [
-        { path: '/', component: Home },
-        { path: '/contacts', component: Contacts },
-        { path: '/services', component: Services },
-        { path: '/disclaimer', component: Disclaimer },
-        { path: '/term', component: Term },
-        { path: '/services/:id', component: Product },
-        { path: '/conf_order', component: ConfOrder },
-        { path: '/cookie', component: Cookie },
+        { path: '/HtmlTestTaskAG/', component: Home },
+        { path: '/HtmlTestTaskAG/contacts', component: Contacts },
+        { path: '/HtmlTestTaskAG/services', component: Services },
+        { path: '/HtmlTestTaskAG/disclaimer', component: Disclaimer },
+        { path: '/HtmlTestTaskAG/term', component: Term },
+        { path: '/HtmlTestTaskAG/services/:id', component: Product },
+        { path: '/HtmlTestTaskAG/conf_order', component: ConfOrder },
+        { path: '/HtmlTestTaskAG/cookie', component: Cookie },
     ],
 })
 

@@ -22,7 +22,7 @@
                         Contact us to discuss the services provided.
                     </p>
 
-                    <button class="btn" @click="$router.push('/contacts')">Order</button>
+                    <button class="btn" @click="$router.push('/HtmlTestTaskAG/contacts')">Order</button>
                 </div>
             </div>
         </div>

@@ -7,7 +7,7 @@
                 data. We use this information for security, site improvement,
                 and marketing. You can restrict the processing by selecting only
                 the necessary cookies. By continuing to use the site, you agree
-                to our <router-link to="/cookie">cookie policy</router-link>.
+                to our <router-link to="/HtmlTestTaskAG/cookie">cookie policy</router-link>.
             </p>
 
             <button class="btn cookie-btn" @click="fAcceptCookie()">

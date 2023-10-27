@@ -10,7 +10,7 @@
                 haven with <br />
                 our top-notch cleaning services.
             </p>
-            <button class="btn" @click="$router.push('/services')">
+            <button class="btn" @click="$router.push('/HtmlTestTaskAG/services')">
                 Services
             </button>
         </div>
@@ -39,7 +39,7 @@
                     utmost professionalism.
                 </p>
             </div>
-            <img src="../assets/img_1.png" alt="img_1.png" />
+            <img src="../assets/img/img_1.png" alt="img_1.png" />
         </div>
 
         <div class="service-block">
@@ -142,7 +142,7 @@ export default {
 
     methods: {
         fOpenProduct(oProduct) {
-            this.$router.push("/services/" + oProduct.id);
+            this.$router.push("/HtmlTestTaskAG/services/" + oProduct.id);
         },
         fSendContact() {
             const aBtn = document.querySelectorAll(".contact-btn");
@@ -175,7 +175,7 @@ export default {
 
             aBtn[3].style.borderBottom = null;
 
-            this.$router.push('/conf_order');
+            this.$router.push('/HtmlTestTaskAG/conf_order');
             window.scrollTo(0, 0);
         },
     },
@@ -184,7 +184,7 @@ export default {
 
 <style lang="scss" scoped>
 .welcome-block {
-    background: url("../assets/background.png") no-repeat;
+    background: url("../assets/img/background.png") no-repeat;
     height: 665px;
 
     display: flex;

@@ -16,7 +16,7 @@
             >
         </div>
 
-        <div class="footer-logo" @click="$router.push('/')">
+        <div class="footer-logo" @click="$router.push('/HtmlTestTaskAG/')">
             <IconLogo />
             <h1>SSSCleaning</h1>
         </div>
@@ -25,8 +25,8 @@
             <a href="https://quizzickle.com/privacy_txt.html" target="_blank"
                 >Privacy policy</a
             >
-            <router-link to="/term">Terms & Conditions</router-link>
-            <router-link to="/disclaimer">Disclaimer</router-link>
+            <router-link to="/HtmlTestTaskAG/term">Terms & Conditions</router-link>
+            <router-link to="/HtmlTestTaskAG/disclaimer">Disclaimer</router-link>
         </div>
     </div>
 </template>

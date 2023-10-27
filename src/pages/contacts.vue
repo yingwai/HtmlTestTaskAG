@@ -119,7 +119,7 @@ export default {
 
             aBtn[3].style.borderBottom = null;
 
-            this.$router.push("/conf_order");
+            this.$router.push("/HtmlTestTaskAG/conf_order");
             window.scrollTo(0, 0);
         },
         fOpenContact(sTab) {

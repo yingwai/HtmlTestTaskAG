@@ -1,14 +1,14 @@
 <template>
     <div class="header-contaner">
-        <div class="header-logo" @click="$router.push('/')">
+        <div class="header-logo" @click="$router.push('/HtmlTestTaskAG/')">
             <IconLogo />
             <h1>SSSCleaning</h1>
         </div>
 
         <div class="header-nav">
-            <router-link to="/">Home</router-link>
-            <router-link to="/services">Services</router-link>
-            <router-link to="/contacts">Contacts</router-link>
+            <router-link to="/HtmlTestTaskAG/">Home</router-link>
+            <router-link to="/HtmlTestTaskAG/services">Services</router-link>
+            <router-link to="/HtmlTestTaskAG/contacts">Contacts</router-link>
         </div>
     </div>
 </template>
